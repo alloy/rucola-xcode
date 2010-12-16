@@ -1,5 +1,5 @@
 module Rucola
-  module Xcode
+  module XCode
     # Your code goes here...
   end
 end

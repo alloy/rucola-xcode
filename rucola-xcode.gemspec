@@ -4,7 +4,7 @@ require "rucola/xcode/version"
 
 Gem::Specification.new do |s|
   s.name        = "rucola-xcode"
-  s.version     = Rucola::Xcode::VERSION
+  s.version     = Rucola::XCode::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["TODO: Write your name"]
   s.email       = ["TODO: Write your email address"]

@@ -1,5 +1,5 @@
 module Rucola
-  module Xcode
+  module XCode
     VERSION = "0.0.1"
   end
 end
